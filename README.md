@@ -12,6 +12,7 @@
 
 Certificates & Badges
 - Python
+ https://github.com/Iqra-Developer778/Iqra-  Developer778/blob/fac0568b913baf7c1f2667c302f8459855937a0e/Python_Essentials_1_certificate.pdf
  https://www.credly.com/badges/cd0c5f85-4907-47a3-8d2a-e25c3cb7c0fa/public_url
 
 -Introduction To Modern AI
