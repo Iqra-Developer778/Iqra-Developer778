@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**Iqra-Developer778/Iqra-Developer778** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Hi 👋 I'm Iqra
 
-Here are some ideas to get you started:
+💻 Python Developer  
+📱 Flutter and App developer
+🛡 IT Student  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Skills
+- Python
+- Flutter
+- Firebase
+- SQL
+- Frontened Designer(Html,Css, JS)
